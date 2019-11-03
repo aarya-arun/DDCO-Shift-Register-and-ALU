@@ -1,5 +1,7 @@
 # DDCO-Shift-Register-and-ALU
 
+DONE IN VERILOG
+
 PROBLEM DESCRIPTION:
  
 Abstract :
